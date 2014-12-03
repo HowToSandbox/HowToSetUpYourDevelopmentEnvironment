@@ -18,13 +18,15 @@ This is the Mac version. Stay tuned for other OS's.
 
 	>\curl -sSL https://get.rvm.io | bash -s stable --ruby
 	
+	>source /Users/francesmorales/.rvm/scripts/rvm
+	
 * Install Ruby under RVM
 
 	>rvm install 2.1.2
 	
 	>rvm --default use 2.1.2           # This makes 2.1.2 Default
 	
-	>source /Users/francesmorales/.rvm/scripts/rvm
+	
 	
 * Install Bundler:
 
