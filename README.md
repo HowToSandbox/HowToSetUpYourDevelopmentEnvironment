@@ -24,6 +24,8 @@ This is the Mac version. Stay tuned for other OS's.
 	
 	>rvm --default use 2.1.2           # This makes 2.1.2 Default
 	
+	>source /Users/francesmorales/.rvm/scripts/rvm
+	
 * Install Bundler:
 
 	>gem install bundler
