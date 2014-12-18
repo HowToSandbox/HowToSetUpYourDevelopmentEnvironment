@@ -6,11 +6,11 @@ This is the Mac version. Stay tuned for other OS's.
 * Make your bash prompt useful
 	> (cd /tmp && git clone --depth 1 https://github.com/twolfson/sexy-bash-prompt && cd sexy-bash-prompt && make install) && source ~/.bashrc
 
-* Install Homebrew
+* Install Homebrew (skip this on linux)
 
 	>ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 	
-* Update Homebrew
+* Update Homebrew (skip this on linux)
 	
 	>brew update
 
