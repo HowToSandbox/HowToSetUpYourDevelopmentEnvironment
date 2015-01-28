@@ -3,6 +3,8 @@ HowToSetUpYourDevelopmentEnvironment
 This is the Mac version. Stay tuned for other OS's.
 
 #### Install you Development Environment
+* Install command line tools
+	> xcode-select --install
 * Make your bash prompt useful
 	> (cd /tmp && git clone --depth 1 https://github.com/twolfson/sexy-bash-prompt && cd sexy-bash-prompt && make install) && source ~/.bashrc
 
