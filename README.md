@@ -7,8 +7,8 @@ This is the Mac version. Stay tuned for other OS's.
 
 * nano highligting
 ```shell
-        git clone https://github.com/scopatz/nanorc.git ~/.nano
-	cat ~/.nano/nanorc >> ~/.nanorc
+git clone https://github.com/scopatz/nanorc.git ~/.nano
+cat ~/.nano/nanorc >> ~/.nanorc
 ```
 * Install command line tools
 	> xcode-select --install
